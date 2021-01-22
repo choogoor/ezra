@@ -1,0 +1,21 @@
+{
+    "name": "ezra",
+    "displayName": "ezra",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ezra",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ezra-color-theme.json"
+            }
+        ]
+    }
+}
