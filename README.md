@@ -1,13 +1,31 @@
-# README
-## This is the README for your extension "ezra"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# EZRA Theme
+___
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Ezra is Visual Studio Code dark theme optimized for front-end development. It's minimal, pleasent for coding in any language especialy well suited for HTML, CSS/SCSS, JS/JSX, PHP (WordPress) and Liquid.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshots
 
-**Enjoy!**
+### HTML
+
+![VSC HTML](images/html.png)
+
+### CSS/SCSS
+
+![VSC CSS/SCSS](images/scss.png)
+
+### JavaScript/React
+
+![VSC JS](images/js.png)
+
+### PHP
+
+![VSC PHP](images/php.png)
+
+### Liquid
+
+![VSC Liquid](images/liquid.png)
+
+## Licence
+
+Licensed under the MIT license.
+

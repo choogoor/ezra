@@ -1,21 +1,29 @@
 {
-    "name": "ezra",
-    "displayName": "ezra",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ezra",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Ezra-color-theme.json"
-            }
-        ]
-    }
+  "name": "ezra",
+  "displayName": "ezra",
+  "description": "Visual Studio Code theme optimized for front-end development.",
+  "author": "Aleksandar Čugurović <choogoor@gmail.com> (https://cugurovic.com/)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/choogoor/ezra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/choogoor/ezra/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ezra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ezra-color-theme.json"
+      }
+    ]
+  }
 }
