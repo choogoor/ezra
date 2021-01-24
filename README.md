@@ -1,5 +1,4 @@
 # EZRA Theme
-___
 
 Ezra is Visual Studio Code dark theme optimized for front-end development. It's minimal, pleasent for coding in any language especialy well suited for HTML, CSS/SCSS, JS/JSX, PHP (WordPress) and Liquid.
 
