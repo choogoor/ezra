@@ -3,7 +3,9 @@
   "displayName": "ezra",
   "description": "Visual Studio Code theme optimized for front-end development.",
   "author": "Aleksandar Čugurović <choogoor@gmail.com> (https://cugurovic.com/)",
-  "version": "0.0.1",
+  "publisher": "AleksandarCugurovic",
+  "version": "1.0.0",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.52.0"
   },
